@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: pink; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* class representation */
+.frontend {
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px solid green;
+    padding: 50px;
+    margin: 50px; 
+    border-radius: 30px; 
+
+}
+
+.tutor {
+    color:blue;
+}
+.tutors-name {
+    color:yellow; 
+}
+.amount-of-student {
+    color: blueviolet;
+}
+
+.number-of-student {
+    color: bisque;
+}
+.name-of-school {
+    color: brown;
+}
+.school-name {
+    color: crimson;
+}
+.Capacity {
+    color: blue;
+}
+
+.capacity-of-student {
+    color: blueviolet;
+}
+.duration {
+    color: blue;
+}
+.hrs {
+    color: brown;
+}
+.semester {
+    color: blue;
+}
+.how-many-semester {
+    color: #000; 
+}
+.description {
+    color: aqua;
+}
+.tutors-description {
+    color: blue;
+}
+
+.ui-ux {
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px dotted gold;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px;
+}   
+.tutor {
+    color: blue;
+}
+.tutors-name {
+    color: blue;
+}
+.amount-of-student {
+    color: blanchedalmond;
+    
+}
+.number-of-student {
+    color: aqua;
+}
+.cybersec {
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px dotted gray;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 30px;
+}
